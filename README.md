@@ -3,17 +3,24 @@ This Cybersecurity Lab is a collection of projects and tools that show my skills
 ## Topics Covered in This Lab
 **Penetration Testing**:
 - Finding and fixing security weaknesses.
+
 **Malware Analysis**:
 - Studying harmful software to understand how it works.
+
 **Network Security**:
 - Protecting networks from attacks and making them secure.
+
 **Cryptography**:
 - Using encryption to protect information.
+
 **Digital Forensics**:
 - Investigating computers and devices to find evidence.
+
 **Incident Response**:
 - Steps to handle and fix cybersecurity problems.
+
 **Threat Hunting**:
 - Finding hidden threats in systems before they cause damage.
+
 **Other Topics**:
 - Learning about security rules, risks, and automation.
