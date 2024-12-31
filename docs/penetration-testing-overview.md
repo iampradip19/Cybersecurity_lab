@@ -1,7 +1,7 @@
 # Penetration Testing Overview
 
 ## What is Penetration Testing?
-Penetration testing is like a practice attack on a system to find weaknesses. It helps to improve security by finding problems before bad guys can exploit them.
+Penetration testing is like a practice attack on a system to find weaknesses. It helps to improve security by finding problems before attackers can exploit them.
 
 ## Why is it Important?
 Penetration testing helps companies find and fix security problems, making their systems safer.
